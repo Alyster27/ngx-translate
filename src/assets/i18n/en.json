@@ -1,0 +1,7 @@
+{
+    "app": {
+        "title": "Hello",
+        "text" : "Text in English",
+        "button": "Français"
+    }
+}
